@@ -2,7 +2,7 @@
 Testing
 ---
 ## Angular CLI
-### CLI for Angular applications based on the [pincha aquí](http://www.codigovivo.asidom.es/) project.
+### CLI for Angular applications based on the [click here](http://www.codigovivo.asidom.es/) project.
 ## Note
 
 If you are updating from a beta or RC version, check out our [1.0 Update Guide](https://github.com/angular/angular-cli/wiki/stories-1.0-update).
